@@ -1,0 +1,7 @@
+permission deneme1 1
+permission deneme1 2
+permission deneme1 3
+permission deneme1 4
+permission deneme1 5
+permission deneme1 6
+permission deneme1 7
