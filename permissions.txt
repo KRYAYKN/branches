@@ -1,7 +1,10 @@
-permission deneme1 1
-permission deneme1 2
-permission deneme1 3
-permission deneme1 4
-permission deneme1 5
-permission deneme1 6
+permissions deneme1 1
+permissions deneme1 2
+permissions deneme2 1
+permissions deneme2 2
+permissions deneme1 3
+permissions deneme1 4
+permissions deneme1 5
+permissions deneme1 6
+permissions deneme2 3
 permission deneme1 7
